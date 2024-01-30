@@ -11,13 +11,13 @@ int main() {
      // напиши число
         cout << "Въведете число или 'stop' за да излезнеш от програмата: ";
         cin >> number;
-         // Check if the input is "stop" to break the loop
+         // напиши "stop" зада излезеш от програмата
         if (input == "stop") {
-            cout << "Exiting the program." << endl;
+            cout << "Излизане от порграмта." << endl;
             break;
         }
 
-        // Convert the input to an integer
+        // Convert 
         int number = stoi(input);
 
     // провери дали е четно или не четно
