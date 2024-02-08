@@ -1,6 +1,6 @@
-#include "Author.h"
-#include "Book.h"
-#include "Library.h"
+#include "Author_homework.h"
+#include "Book_homework.h"
+#include "Library_homework.h"
 
 int main() {
 

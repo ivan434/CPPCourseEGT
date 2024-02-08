@@ -1,4 +1,4 @@
-#include "LuxuryCar.h"
+#include "Lux_Car_Homework.h"
 
 LuxuryCar::LuxuryCar(string brand, string model, string type, string VIN, string plateNo, int dist, string extras)
 :Car(brand, model, type, VIN, plateNo)
