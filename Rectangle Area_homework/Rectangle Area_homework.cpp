@@ -29,3 +29,4 @@ int main() {
 
     // Create a rectangle object
     Rectangle rectangle(length, width);
+}
